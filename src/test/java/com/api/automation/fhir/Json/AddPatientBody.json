@@ -1,0 +1,20 @@
+{
+    "resourceType": "Patient",
+    "identifier": [
+        {
+            "System": "urn:oid:1.2.36.146.595.217.0.1",
+            "value": "12345"
+        }
+    ],
+    "name": [
+        {
+            "family": "Chalmers",
+            "given": [
+                "Parag",
+                "Patil"
+            ]
+        }
+    ],
+    "gender": "male",
+    "birthDate": "1974-12-25"
+}
